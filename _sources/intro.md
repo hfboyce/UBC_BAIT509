@@ -19,7 +19,7 @@ By the end of the course, students are expected to be able to:
 
 | Name         | Position   | email | 
 | :---:        | :---:      | :---:         | 
-| [Hayley Boyce](www.hayleyfboyce.com) | Instructor | hfboyce@cs.ubc.ca | 
+| [Hayley Boyce](https://www.hayleyfboyce.com/) | Instructor | hfboyce@cs.ubc.ca | 
 | Ali Seyfi | TA | aliseyfi@cs.ubc.ca | TBD | 
 | Andy Tai | TA | andy.tai@mail.utoronto.ca | TBD | 
 | Daniel Ramandi| TA | ramandi18@gmail.com | TBD | 
