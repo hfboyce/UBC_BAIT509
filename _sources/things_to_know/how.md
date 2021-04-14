@@ -33,7 +33,7 @@ In addition to these 2 small slide decks, there is an entire course we have deve
 
 ## Content 
 This may be a little different than what you are used to. 
-All my lectures will be made in Jupyter notebooks and presented in a Jupyter Book. You will get access to all the notebooks and the data we used in them so you can launch them locally.
+All my lectures will be made in Jupyter notebooks and presented in a Jupyter Book. You will get access to all the notebooks and the data we used so you can launch them locally.
 
 ## Lecture Plan and Activities
 My lectures will be prerecorded and we will view them synchronously. There will be 3-5 videos and we will break in between for an opportunity to discuss the topics, answer questions and do interactive activities. 
