@@ -58,7 +58,7 @@
     <link rel="shortcut icon" href="../_static/bait_logo.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Attribution" href="../things_to_know/attribution.html" />
+    <link rel="next" title="Lecture 4 - and SVM with RBF Kernel and Feature Preprocessing" href="lecture4.html" />
     <link rel="prev" title="Lecture 2 - Splitting and Cross-validation" href="lecture2.html" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -139,6 +139,11 @@
  <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
    Lecture 3 - Baseline, k-Nearest Neighbours
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="lecture4.html">
+   Lecture 4 - and SVM with RBF Kernel and Feature Preprocessing
   </a>
  </li>
 </ul>
@@ -740,71 +745,71 @@
   <tbody>
     <tr>
       <th>0</th>
-      <td>0.000980</td>
-      <td>0.000377</td>
+      <td>0.001051</td>
+      <td>0.000385</td>
       <td>0.59375</td>
       <td>0.576389</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>0.000674</td>
-      <td>0.000378</td>
+      <td>0.000633</td>
+      <td>0.000380</td>
       <td>0.59375</td>
       <td>0.576389</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>0.000602</td>
-      <td>0.000264</td>
+      <td>0.000581</td>
+      <td>0.000269</td>
       <td>0.59375</td>
       <td>0.576389</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>0.000576</td>
-      <td>0.000260</td>
+      <td>0.000640</td>
+      <td>0.000270</td>
       <td>0.59375</td>
       <td>0.576389</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>0.000588</td>
-      <td>0.000271</td>
+      <td>0.000677</td>
+      <td>0.000363</td>
       <td>0.59375</td>
       <td>0.576389</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>0.000581</td>
-      <td>0.000263</td>
+      <td>0.000599</td>
+      <td>0.000267</td>
       <td>0.56250</td>
       <td>0.579861</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>0.000588</td>
-      <td>0.000341</td>
+      <td>0.001175</td>
+      <td>0.000701</td>
       <td>0.56250</td>
       <td>0.579861</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>0.000579</td>
-      <td>0.000263</td>
+      <td>0.001023</td>
+      <td>0.000389</td>
       <td>0.56250</td>
       <td>0.579861</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>0.000575</td>
-      <td>0.000263</td>
+      <td>0.000687</td>
+      <td>0.000342</td>
       <td>0.56250</td>
       <td>0.579861</td>
     </tr>
     <tr>
       <th>9</th>
-      <td>0.001082</td>
-      <td>0.000726</td>
+      <td>0.000705</td>
+      <td>0.000269</td>
       <td>0.56250</td>
       <td>0.579861</td>
     </tr>
@@ -819,8 +824,8 @@
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>fit_time       0.000683
-score_time     0.000341
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>fit_time       0.000777
+score_time     0.000363
 test_score     0.578125
 train_score    0.578125
 dtype: float64
@@ -964,71 +969,71 @@ dtype: int64
   <tbody>
     <tr>
       <th>0</th>
-      <td>0.003457</td>
-      <td>0.001407</td>
+      <td>0.004947</td>
+      <td>0.002035</td>
       <td>0.87500</td>
       <td>1.0</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>0.003018</td>
-      <td>0.001226</td>
-      <td>0.93750</td>
+      <td>0.003565</td>
+      <td>0.001339</td>
+      <td>0.96875</td>
       <td>1.0</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>0.003234</td>
-      <td>0.001316</td>
+      <td>0.003633</td>
+      <td>0.001269</td>
       <td>0.75000</td>
       <td>1.0</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>0.002828</td>
-      <td>0.001257</td>
+      <td>0.002947</td>
+      <td>0.001215</td>
       <td>0.90625</td>
       <td>1.0</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>0.002872</td>
-      <td>0.001343</td>
-      <td>0.96875</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>0.002999</td>
-      <td>0.001237</td>
+      <td>0.002838</td>
+      <td>0.001208</td>
       <td>0.90625</td>
       <td>1.0</td>
     </tr>
     <tr>
+      <th>5</th>
+      <td>0.003082</td>
+      <td>0.001241</td>
+      <td>0.93750</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
       <th>6</th>
-      <td>0.002879</td>
-      <td>0.001204</td>
+      <td>0.002842</td>
+      <td>0.001257</td>
       <td>0.87500</td>
       <td>1.0</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>0.002901</td>
-      <td>0.001262</td>
-      <td>0.90625</td>
-      <td>1.0</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>0.002995</td>
-      <td>0.001230</td>
+      <td>0.003250</td>
+      <td>0.001321</td>
       <td>0.87500</td>
       <td>1.0</td>
     </tr>
     <tr>
+      <th>8</th>
+      <td>0.003062</td>
+      <td>0.001849</td>
+      <td>0.90625</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
       <th>9</th>
-      <td>0.002886</td>
-      <td>0.001225</td>
+      <td>0.002887</td>
+      <td>0.001217</td>
       <td>0.90625</td>
       <td>1.0</td>
     </tr>
@@ -1043,8 +1048,8 @@ dtype: int64
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>fit_time       0.003007
-score_time     0.001271
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>fit_time       0.003305
+score_time     0.001395
 test_score     0.890625
 train_score    1.000000
 dtype: float64
@@ -1060,7 +1065,7 @@ dtype: float64
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0.9
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0.9125
 </pre></div>
 </div>
 </div>
@@ -1513,12 +1518,12 @@ Visualizing this in 2 dimensions gives us the following:</p>
 </div>
 <div class="cell_output docutils container">
 <div class="output text_html">
-<div id="altair-viz-2fea13cee3b44fac9e943df23016a024"></div>
+<div id="altair-viz-04a7448ff0c14d2c85ca658d3961c640"></div>
 <script type="text/javascript">
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-2fea13cee3b44fac9e943df23016a024") {
-      outputDiv = document.getElementById("altair-viz-2fea13cee3b44fac9e943df23016a024");
+    if (outputDiv.id !== "altair-viz-04a7448ff0c14d2c85ca658d3961c640") {
+      outputDiv = document.getElementById("altair-viz-04a7448ff0c14d2c85ca658d3961c640");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
@@ -2001,12 +2006,12 @@ Visualizing this in 2 dimensions gives us the following:</p>
 </div>
 <div class="cell_output docutils container">
 <div class="output text_html">
-<div id="altair-viz-ceaf8197fefa4a3b862098aa8c4b2e63"></div>
+<div id="altair-viz-4c43e79215bd4d69a51bab24afc754d5"></div>
 <script type="text/javascript">
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-ceaf8197fefa4a3b862098aa8c4b2e63") {
-      outputDiv = document.getElementById("altair-viz-ceaf8197fefa4a3b862098aa8c4b2e63");
+    if (outputDiv.id !== "altair-viz-4c43e79215bd4d69a51bab24afc754d5") {
+      outputDiv = document.getElementById("altair-viz-4c43e79215bd4d69a51bab24afc754d5");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
@@ -2107,12 +2112,12 @@ Visualizing this in 2 dimensions gives us the following:</p>
 </div>
 <div class="cell_output docutils container">
 <div class="output text_html">
-<div id="altair-viz-74f6db83eafb453e82deb48a890e68b6"></div>
+<div id="altair-viz-5364851360d4475cb2273eac638603b9"></div>
 <script type="text/javascript">
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-74f6db83eafb453e82deb48a890e68b6") {
-      outputDiv = document.getElementById("altair-viz-74f6db83eafb453e82deb48a890e68b6");
+    if (outputDiv.id !== "altair-viz-5364851360d4475cb2273eac638603b9") {
+      outputDiv = document.getElementById("altair-viz-5364851360d4475cb2273eac638603b9");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
@@ -4800,7 +4805,7 @@ We will learn how to search over multiple hyperparameters at a time in lecture 5
         <div class='prev-next-bottom'>
             
     <a class='left-prev' id="prev-link" href="lecture2.html" title="previous page">Lecture 2 - Splitting and Cross-validation</a>
-    <a class='right-next' id="next-link" href="../things_to_know/attribution.html" title="next page">Attribution</a>
+    <a class='right-next' id="next-link" href="lecture4.html" title="next page">Lecture 4 - and SVM with RBF Kernel and Feature Preprocessing</a>
 
         </div>
         
