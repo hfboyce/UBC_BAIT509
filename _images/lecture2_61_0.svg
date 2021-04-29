@@ -12,212 +12,212 @@
 <!-- 0 -->
 <g id="node1" class="node">
 <title>0</title>
-<polygon fill="none" stroke="black" points="347.5,-924 242.5,-924 242.5,-886 347.5,-886 347.5,-924"/>
-<text text-anchor="middle" x="295" y="-908.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 42.9</text>
-<text text-anchor="middle" x="295" y="-893.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="340.5,-924 235.5,-924 235.5,-886 340.5,-886 340.5,-924"/>
+<text text-anchor="middle" x="288" y="-908.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 42.9</text>
+<text text-anchor="middle" x="288" y="-893.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 1 -->
 <g id="node2" class="node">
 <title>1</title>
-<polygon fill="none" stroke="black" points="286.5,-850 167.5,-850 167.5,-812 286.5,-812 286.5,-850"/>
-<text text-anchor="middle" x="227" y="-834.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 42.096</text>
-<text text-anchor="middle" x="227" y="-819.8" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="279.5,-850 160.5,-850 160.5,-812 279.5,-812 279.5,-850"/>
+<text text-anchor="middle" x="220" y="-834.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 42.096</text>
+<text text-anchor="middle" x="220" y="-819.8" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 0&#45;&gt;1 -->
 <g id="edge1" class="edge">
 <title>0&#45;&gt;1</title>
-<path fill="none" stroke="black" d="M277.84,-885.83C269.85,-877.37 260.2,-867.15 251.46,-857.9"/>
-<polygon fill="black" stroke="black" points="253.8,-855.28 244.39,-850.41 248.71,-860.09 253.8,-855.28"/>
-<text text-anchor="middle" x="243.68" y="-871.7" font-family="Times,serif" font-size="14.00">True</text>
+<path fill="none" stroke="black" d="M270.84,-885.83C262.85,-877.37 253.2,-867.15 244.46,-857.9"/>
+<polygon fill="black" stroke="black" points="246.8,-855.28 237.39,-850.41 241.71,-860.09 246.8,-855.28"/>
+<text text-anchor="middle" x="236.68" y="-871.7" font-family="Times,serif" font-size="14.00">True</text>
 </g>
 <!-- 6 -->
 <g id="node7" class="node">
 <title>6</title>
-<polygon fill="none" stroke="black" points="423.5,-850 304.5,-850 304.5,-812 423.5,-812 423.5,-850"/>
-<text text-anchor="middle" x="364" y="-834.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 55.958</text>
-<text text-anchor="middle" x="364" y="-819.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="416.5,-850 297.5,-850 297.5,-812 416.5,-812 416.5,-850"/>
+<text text-anchor="middle" x="357" y="-834.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 55.958</text>
+<text text-anchor="middle" x="357" y="-819.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 0&#45;&gt;6 -->
 <g id="edge6" class="edge">
 <title>0&#45;&gt;6</title>
-<path fill="none" stroke="black" d="M312.41,-885.83C320.52,-877.37 330.32,-867.15 339.18,-857.9"/>
-<polygon fill="black" stroke="black" points="341.96,-860.05 346.35,-850.41 336.91,-855.21 341.96,-860.05"/>
-<text text-anchor="middle" x="346.89" y="-871.71" font-family="Times,serif" font-size="14.00">False</text>
+<path fill="none" stroke="black" d="M305.41,-885.83C313.52,-877.37 323.32,-867.15 332.18,-857.9"/>
+<polygon fill="black" stroke="black" points="334.96,-860.05 339.35,-850.41 329.91,-855.21 334.96,-860.05"/>
+<text text-anchor="middle" x="339.89" y="-871.71" font-family="Times,serif" font-size="14.00">False</text>
 </g>
 <!-- 2 -->
 <g id="node3" class="node">
 <title>2</title>
-<polygon fill="none" stroke="black" points="151,-775 65,-775 65,-739 151,-739 151,-775"/>
-<text text-anchor="middle" x="108" y="-753.3" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="144,-775 58,-775 58,-739 144,-739 144,-775"/>
+<text text-anchor="middle" x="101" y="-753.3" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 1&#45;&gt;2 -->
 <g id="edge2" class="edge">
 <title>1&#45;&gt;2</title>
-<path fill="none" stroke="black" d="M196.97,-811.83C181.29,-802.34 161.94,-790.64 145.31,-780.57"/>
-<polygon fill="black" stroke="black" points="146.75,-777.35 136.38,-775.17 143.12,-783.34 146.75,-777.35"/>
+<path fill="none" stroke="black" d="M189.97,-811.83C174.29,-802.34 154.94,-790.64 138.31,-780.57"/>
+<polygon fill="black" stroke="black" points="139.75,-777.35 129.38,-775.17 136.12,-783.34 139.75,-777.35"/>
 </g>
 <!-- 3 -->
 <g id="node4" class="node">
 <title>3</title>
-<polygon fill="none" stroke="black" points="288.5,-776 169.5,-776 169.5,-738 288.5,-738 288.5,-776"/>
-<text text-anchor="middle" x="229" y="-760.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 42.324</text>
-<text text-anchor="middle" x="229" y="-745.8" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="281.5,-776 162.5,-776 162.5,-738 281.5,-738 281.5,-776"/>
+<text text-anchor="middle" x="222" y="-760.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 42.324</text>
+<text text-anchor="middle" x="222" y="-745.8" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 1&#45;&gt;3 -->
 <g id="edge3" class="edge">
 <title>1&#45;&gt;3</title>
-<path fill="none" stroke="black" d="M227.5,-811.83C227.72,-804.13 227.97,-794.97 228.21,-786.42"/>
-<polygon fill="black" stroke="black" points="231.71,-786.51 228.49,-776.41 224.71,-786.31 231.71,-786.51"/>
+<path fill="none" stroke="black" d="M220.5,-811.83C220.72,-804.13 220.97,-794.97 221.21,-786.42"/>
+<polygon fill="black" stroke="black" points="224.71,-786.51 221.49,-776.41 217.71,-786.31 224.71,-786.51"/>
 </g>
 <!-- 4 -->
 <g id="node5" class="node">
 <title>4</title>
-<polygon fill="none" stroke="black" points="168.5,-701 69.5,-701 69.5,-665 168.5,-665 168.5,-701"/>
-<text text-anchor="middle" x="119" y="-679.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="161.5,-701 62.5,-701 62.5,-665 161.5,-665 161.5,-701"/>
+<text text-anchor="middle" x="112" y="-679.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 3&#45;&gt;4 -->
 <g id="edge4" class="edge">
 <title>3&#45;&gt;4</title>
-<path fill="none" stroke="black" d="M201.24,-737.83C186.88,-728.43 169.2,-716.86 153.91,-706.85"/>
-<polygon fill="black" stroke="black" points="155.52,-703.72 145.23,-701.17 151.68,-709.58 155.52,-703.72"/>
+<path fill="none" stroke="black" d="M194.24,-737.83C179.88,-728.43 162.2,-716.86 146.91,-706.85"/>
+<polygon fill="black" stroke="black" points="148.52,-703.72 138.23,-701.17 144.68,-709.58 148.52,-703.72"/>
 </g>
 <!-- 5 -->
 <g id="node6" class="node">
 <title>5</title>
-<polygon fill="none" stroke="black" points="273,-701 187,-701 187,-665 273,-665 273,-701"/>
-<text text-anchor="middle" x="230" y="-679.3" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="266,-701 180,-701 180,-665 266,-665 266,-701"/>
+<text text-anchor="middle" x="223" y="-679.3" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 3&#45;&gt;5 -->
 <g id="edge5" class="edge">
 <title>3&#45;&gt;5</title>
-<path fill="none" stroke="black" d="M229.25,-737.83C229.36,-729.89 229.49,-720.41 229.62,-711.63"/>
-<polygon fill="black" stroke="black" points="233.12,-711.47 229.76,-701.42 226.12,-711.37 233.12,-711.47"/>
+<path fill="none" stroke="black" d="M222.25,-737.83C222.36,-729.89 222.49,-720.41 222.62,-711.63"/>
+<polygon fill="black" stroke="black" points="226.12,-711.47 222.76,-701.42 219.12,-711.37 226.12,-711.47"/>
 </g>
 <!-- 7 -->
 <g id="node8" class="node">
 <title>7</title>
-<polygon fill="none" stroke="black" points="415.5,-776 310.5,-776 310.5,-738 415.5,-738 415.5,-776"/>
-<text text-anchor="middle" x="363" y="-760.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 49.0</text>
-<text text-anchor="middle" x="363" y="-745.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="408.5,-776 303.5,-776 303.5,-738 408.5,-738 408.5,-776"/>
+<text text-anchor="middle" x="356" y="-760.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 49.0</text>
+<text text-anchor="middle" x="356" y="-745.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 6&#45;&gt;7 -->
 <g id="edge7" class="edge">
 <title>6&#45;&gt;7</title>
-<path fill="none" stroke="black" d="M363.75,-811.83C363.64,-804.13 363.51,-794.97 363.39,-786.42"/>
-<polygon fill="black" stroke="black" points="366.89,-786.36 363.26,-776.41 359.9,-786.46 366.89,-786.36"/>
+<path fill="none" stroke="black" d="M356.75,-811.83C356.64,-804.13 356.51,-794.97 356.39,-786.42"/>
+<polygon fill="black" stroke="black" points="359.89,-786.36 356.26,-776.41 352.9,-786.46 359.89,-786.36"/>
 </g>
 <!-- 54 -->
 <g id="node55" class="node">
 <title>54</title>
-<polygon fill="none" stroke="black" points="520,-775 434,-775 434,-739 520,-739 520,-775"/>
-<text text-anchor="middle" x="477" y="-753.3" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="513,-775 427,-775 427,-739 513,-739 513,-775"/>
+<text text-anchor="middle" x="470" y="-753.3" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 6&#45;&gt;54 -->
 <g id="edge54" class="edge">
 <title>6&#45;&gt;54</title>
-<path fill="none" stroke="black" d="M392.51,-811.83C407.41,-802.34 425.78,-790.64 441.58,-780.57"/>
-<polygon fill="black" stroke="black" points="443.5,-783.5 450.05,-775.17 439.74,-777.59 443.5,-783.5"/>
+<path fill="none" stroke="black" d="M385.51,-811.83C400.41,-802.34 418.78,-790.64 434.58,-780.57"/>
+<polygon fill="black" stroke="black" points="436.5,-783.5 443.05,-775.17 432.74,-777.59 436.5,-783.5"/>
 </g>
 <!-- 8 -->
 <g id="node9" class="node">
 <title>8</title>
-<polygon fill="none" stroke="black" points="429,-702 295,-702 295,-664 429,-664 429,-702"/>
-<text text-anchor="middle" x="362" y="-686.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;94.582</text>
-<text text-anchor="middle" x="362" y="-671.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="422,-702 288,-702 288,-664 422,-664 422,-702"/>
+<text text-anchor="middle" x="355" y="-686.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;94.582</text>
+<text text-anchor="middle" x="355" y="-671.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 7&#45;&gt;8 -->
 <g id="edge8" class="edge">
 <title>7&#45;&gt;8</title>
-<path fill="none" stroke="black" d="M362.75,-737.83C362.64,-730.13 362.51,-720.97 362.39,-712.42"/>
-<polygon fill="black" stroke="black" points="365.89,-712.36 362.26,-702.41 358.9,-712.46 365.89,-712.36"/>
+<path fill="none" stroke="black" d="M355.75,-737.83C355.64,-730.13 355.51,-720.97 355.39,-712.42"/>
+<polygon fill="black" stroke="black" points="358.89,-712.36 355.26,-702.41 351.9,-712.46 358.89,-712.36"/>
 </g>
 <!-- 53 -->
 <g id="node54" class="node">
 <title>53</title>
-<polygon fill="none" stroke="black" points="546.5,-701 447.5,-701 447.5,-665 546.5,-665 546.5,-701"/>
-<text text-anchor="middle" x="497" y="-679.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="539.5,-701 440.5,-701 440.5,-665 539.5,-665 539.5,-701"/>
+<text text-anchor="middle" x="490" y="-679.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 7&#45;&gt;53 -->
 <g id="edge53" class="edge">
 <title>7&#45;&gt;53</title>
-<path fill="none" stroke="black" d="M396.81,-737.83C414.8,-728.17 437.06,-716.2 456.03,-706.01"/>
-<polygon fill="black" stroke="black" points="457.89,-708.99 465.04,-701.17 454.58,-702.82 457.89,-708.99"/>
+<path fill="none" stroke="black" d="M389.81,-737.83C407.8,-728.17 430.06,-716.2 449.03,-706.01"/>
+<polygon fill="black" stroke="black" points="450.89,-708.99 458.04,-701.17 447.58,-702.82 450.89,-708.99"/>
 </g>
 <!-- 9 -->
 <g id="node10" class="node">
 <title>9</title>
-<polygon fill="none" stroke="black" points="355,-628 215,-628 215,-590 355,-590 355,-628"/>
-<text text-anchor="middle" x="285" y="-612.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;123.222</text>
-<text text-anchor="middle" x="285" y="-597.8" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="348,-628 208,-628 208,-590 348,-590 348,-628"/>
+<text text-anchor="middle" x="278" y="-612.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;123.222</text>
+<text text-anchor="middle" x="278" y="-597.8" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 8&#45;&gt;9 -->
 <g id="edge9" class="edge">
 <title>8&#45;&gt;9</title>
-<path fill="none" stroke="black" d="M342.57,-663.83C333.27,-655.13 321.98,-644.58 311.87,-635.13"/>
-<polygon fill="black" stroke="black" points="314.12,-632.44 304.42,-628.16 309.34,-637.55 314.12,-632.44"/>
+<path fill="none" stroke="black" d="M335.57,-663.83C326.27,-655.13 314.98,-644.58 304.87,-635.13"/>
+<polygon fill="black" stroke="black" points="307.12,-632.44 297.42,-628.16 302.34,-637.55 307.12,-632.44"/>
 </g>
 <!-- 12 -->
 <g id="node13" class="node">
 <title>12</title>
-<polygon fill="none" stroke="black" points="507,-628 373,-628 373,-590 507,-590 507,-628"/>
-<text text-anchor="middle" x="440" y="-612.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;69.246</text>
-<text text-anchor="middle" x="440" y="-597.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="500,-628 366,-628 366,-590 500,-590 500,-628"/>
+<text text-anchor="middle" x="433" y="-612.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;69.246</text>
+<text text-anchor="middle" x="433" y="-597.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 8&#45;&gt;12 -->
 <g id="edge12" class="edge">
 <title>8&#45;&gt;12</title>
-<path fill="none" stroke="black" d="M381.68,-663.83C391.11,-655.13 402.54,-644.58 412.78,-635.13"/>
-<polygon fill="black" stroke="black" points="415.35,-637.52 420.32,-628.16 410.6,-632.37 415.35,-637.52"/>
+<path fill="none" stroke="black" d="M374.68,-663.83C384.11,-655.13 395.54,-644.58 405.78,-635.13"/>
+<polygon fill="black" stroke="black" points="408.35,-637.52 413.32,-628.16 403.6,-632.37 408.35,-637.52"/>
 </g>
 <!-- 10 -->
 <g id="node11" class="node">
 <title>10</title>
-<polygon fill="none" stroke="black" points="232.5,-553 133.5,-553 133.5,-517 232.5,-517 232.5,-553"/>
-<text text-anchor="middle" x="183" y="-531.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="225.5,-553 126.5,-553 126.5,-517 225.5,-517 225.5,-553"/>
+<text text-anchor="middle" x="176" y="-531.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 9&#45;&gt;10 -->
 <g id="edge10" class="edge">
 <title>9&#45;&gt;10</title>
-<path fill="none" stroke="black" d="M259.26,-589.83C246.07,-580.52 229.85,-569.07 215.77,-559.13"/>
-<polygon fill="black" stroke="black" points="217.51,-556.08 207.33,-553.17 213.48,-561.8 217.51,-556.08"/>
+<path fill="none" stroke="black" d="M252.26,-589.83C239.07,-580.52 222.85,-569.07 208.77,-559.13"/>
+<polygon fill="black" stroke="black" points="210.51,-556.08 200.33,-553.17 206.48,-561.8 210.51,-556.08"/>
 </g>
 <!-- 11 -->
 <g id="node12" class="node">
 <title>11</title>
-<polygon fill="none" stroke="black" points="337,-553 251,-553 251,-517 337,-517 337,-553"/>
-<text text-anchor="middle" x="294" y="-531.3" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="330,-553 244,-553 244,-517 330,-517 330,-553"/>
+<text text-anchor="middle" x="287" y="-531.3" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 9&#45;&gt;11 -->
 <g id="edge11" class="edge">
 <title>9&#45;&gt;11</title>
-<path fill="none" stroke="black" d="M287.27,-589.83C288.26,-581.89 289.45,-572.41 290.55,-563.63"/>
-<polygon fill="black" stroke="black" points="294.06,-563.77 291.82,-553.42 287.11,-562.91 294.06,-563.77"/>
+<path fill="none" stroke="black" d="M280.27,-589.83C281.26,-581.89 282.45,-572.41 283.55,-563.63"/>
+<polygon fill="black" stroke="black" points="287.06,-563.77 284.82,-553.42 280.11,-562.91 287.06,-563.77"/>
 </g>
 <!-- 13 -->
 <g id="node14" class="node">
 <title>13</title>
-<polygon fill="none" stroke="black" points="491.5,-554 372.5,-554 372.5,-516 491.5,-516 491.5,-554"/>
-<text text-anchor="middle" x="432" y="-538.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 43.093</text>
-<text text-anchor="middle" x="432" y="-523.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="484.5,-554 365.5,-554 365.5,-516 484.5,-516 484.5,-554"/>
+<text text-anchor="middle" x="425" y="-538.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 43.093</text>
+<text text-anchor="middle" x="425" y="-523.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 12&#45;&gt;13 -->
 <g id="edge13" class="edge">
 <title>12&#45;&gt;13</title>
-<path fill="none" stroke="black" d="M437.98,-589.83C437.13,-582.13 436.11,-572.97 435.16,-564.42"/>
-<polygon fill="black" stroke="black" points="438.63,-563.97 434.05,-554.41 431.67,-564.74 438.63,-563.97"/>
+<path fill="none" stroke="black" d="M430.98,-589.83C430.13,-582.13 429.11,-572.97 428.16,-564.42"/>
+<polygon fill="black" stroke="black" points="431.63,-563.97 427.05,-554.41 424.67,-564.74 431.63,-563.97"/>
 </g>
 <!-- 36 -->
 <g id="node37" class="node">
 <title>36</title>
-<polygon fill="none" stroke="black" points="801,-554 667,-554 667,-516 801,-516 801,-554"/>
-<text text-anchor="middle" x="734" y="-538.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;66.952</text>
-<text text-anchor="middle" x="734" y="-523.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="790,-554 656,-554 656,-516 790,-516 790,-554"/>
+<text text-anchor="middle" x="723" y="-538.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;66.952</text>
+<text text-anchor="middle" x="723" y="-523.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 12&#45;&gt;36 -->
 <g id="edge36" class="edge">
 <title>12&#45;&gt;36</title>
-<path fill="none" stroke="black" d="M507.08,-591.57C551.78,-580.63 610.64,-566.21 657.21,-554.81"/>
-<polygon fill="black" stroke="black" points="658.07,-558.2 666.95,-552.42 656.41,-551.4 658.07,-558.2"/>
+<path fill="none" stroke="black" d="M500.26,-591.3C543.83,-580.48 600.7,-566.37 646.06,-555.1"/>
+<polygon fill="black" stroke="black" points="646.99,-558.48 655.85,-552.67 645.3,-551.68 646.99,-558.48"/>
 </g>
 <!-- 14 -->
 <g id="node15" class="node">
@@ -229,21 +229,21 @@
 <!-- 13&#45;&gt;14 -->
 <g id="edge14" class="edge">
 <title>13&#45;&gt;14</title>
-<path fill="none" stroke="black" d="M372.19,-517.93C333.49,-507.53 282.72,-493.9 241.01,-482.69"/>
-<polygon fill="black" stroke="black" points="241.73,-479.26 231.17,-480.05 239.92,-486.02 241.73,-479.26"/>
+<path fill="none" stroke="black" d="M365.45,-517.57C328.06,-507.26 279.51,-493.86 239.44,-482.81"/>
+<polygon fill="black" stroke="black" points="240.28,-479.41 229.71,-480.13 238.42,-486.16 240.28,-479.41"/>
 </g>
 <!-- 19 -->
 <g id="node20" class="node">
 <title>19</title>
-<polygon fill="none" stroke="black" points="491.5,-480 372.5,-480 372.5,-442 491.5,-442 491.5,-480"/>
-<text text-anchor="middle" x="432" y="-464.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 44.992</text>
-<text text-anchor="middle" x="432" y="-449.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="484.5,-480 365.5,-480 365.5,-442 484.5,-442 484.5,-480"/>
+<text text-anchor="middle" x="425" y="-464.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 44.992</text>
+<text text-anchor="middle" x="425" y="-449.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 13&#45;&gt;19 -->
 <g id="edge19" class="edge">
 <title>13&#45;&gt;19</title>
-<path fill="none" stroke="black" d="M432,-515.83C432,-508.13 432,-498.97 432,-490.42"/>
-<polygon fill="black" stroke="black" points="435.5,-490.41 432,-480.41 428.5,-490.41 435.5,-490.41"/>
+<path fill="none" stroke="black" d="M425,-515.83C425,-508.13 425,-498.97 425,-490.42"/>
+<polygon fill="black" stroke="black" points="428.5,-490.41 425,-480.41 421.5,-490.41 428.5,-490.41"/>
 </g>
 <!-- 15 -->
 <g id="node16" class="node">
@@ -297,27 +297,27 @@
 <!-- 20 -->
 <g id="node21" class="node">
 <title>20</title>
-<polygon fill="none" stroke="black" points="423.5,-406 304.5,-406 304.5,-368 423.5,-368 423.5,-406"/>
-<text text-anchor="middle" x="364" y="-390.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 44.542</text>
-<text text-anchor="middle" x="364" y="-375.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="416.5,-406 297.5,-406 297.5,-368 416.5,-368 416.5,-406"/>
+<text text-anchor="middle" x="357" y="-390.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 44.542</text>
+<text text-anchor="middle" x="357" y="-375.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 19&#45;&gt;20 -->
 <g id="edge20" class="edge">
 <title>19&#45;&gt;20</title>
-<path fill="none" stroke="black" d="M414.84,-441.83C406.85,-433.37 397.2,-423.15 388.46,-413.9"/>
-<polygon fill="black" stroke="black" points="390.8,-411.28 381.39,-406.41 385.71,-416.09 390.8,-411.28"/>
+<path fill="none" stroke="black" d="M407.84,-441.83C399.85,-433.37 390.2,-423.15 381.46,-413.9"/>
+<polygon fill="black" stroke="black" points="383.8,-411.28 374.39,-406.41 378.71,-416.09 383.8,-411.28"/>
 </g>
 <!-- 35 -->
 <g id="node36" class="node">
 <title>35</title>
-<polygon fill="none" stroke="black" points="540.5,-405 441.5,-405 441.5,-369 540.5,-369 540.5,-405"/>
-<text text-anchor="middle" x="491" y="-383.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="533.5,-405 434.5,-405 434.5,-369 533.5,-369 533.5,-405"/>
+<text text-anchor="middle" x="484" y="-383.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 19&#45;&gt;35 -->
 <g id="edge35" class="edge">
 <title>19&#45;&gt;35</title>
-<path fill="none" stroke="black" d="M446.89,-441.83C453.96,-433.2 462.54,-422.73 470.24,-413.33"/>
-<polygon fill="black" stroke="black" points="473.1,-415.37 476.73,-405.42 467.68,-410.93 473.1,-415.37"/>
+<path fill="none" stroke="black" d="M439.89,-441.83C446.96,-433.2 455.54,-422.73 463.24,-413.33"/>
+<polygon fill="black" stroke="black" points="466.1,-415.37 469.73,-405.42 460.68,-410.93 466.1,-415.37"/>
 </g>
 <!-- 21 -->
 <g id="node22" class="node">
@@ -329,8 +329,8 @@
 <!-- 20&#45;&gt;21 -->
 <g id="edge21" class="edge">
 <title>20&#45;&gt;21</title>
-<path fill="none" stroke="black" d="M345.83,-367.83C337.28,-359.28 326.94,-348.94 317.62,-339.62"/>
-<polygon fill="black" stroke="black" points="319.96,-337.01 310.41,-332.41 315.01,-341.96 319.96,-337.01"/>
+<path fill="none" stroke="black" d="M340.6,-367.83C332.96,-359.37 323.73,-349.15 315.38,-339.9"/>
+<polygon fill="black" stroke="black" points="317.92,-337.49 308.62,-332.41 312.73,-342.18 317.92,-337.49"/>
 </g>
 <!-- 30 -->
 <g id="node31" class="node">
@@ -342,8 +342,8 @@
 <!-- 20&#45;&gt;30 -->
 <g id="edge30" class="edge">
 <title>20&#45;&gt;30</title>
-<path fill="none" stroke="black" d="M384.19,-367.83C393.85,-359.13 405.58,-348.58 416.08,-339.13"/>
-<polygon fill="black" stroke="black" points="418.73,-341.45 423.82,-332.16 414.04,-336.25 418.73,-341.45"/>
+<path fill="none" stroke="black" d="M378.95,-367.83C389.67,-358.96 402.72,-348.16 414.31,-338.57"/>
+<polygon fill="black" stroke="black" points="416.58,-341.23 422.05,-332.16 412.12,-335.84 416.58,-341.23"/>
 </g>
 <!-- 22 -->
 <g id="node23" class="node">
@@ -459,202 +459,202 @@
 <!-- 32 -->
 <g id="node33" class="node">
 <title>32</title>
-<polygon fill="none" stroke="black" points="608,-258 474,-258 474,-220 608,-220 608,-258"/>
-<text text-anchor="middle" x="541" y="-242.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;75.503</text>
-<text text-anchor="middle" x="541" y="-227.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="593.5,-258 474.5,-258 474.5,-220 593.5,-220 593.5,-258"/>
+<text text-anchor="middle" x="534" y="-242.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 44.706</text>
+<text text-anchor="middle" x="534" y="-227.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 30&#45;&gt;32 -->
 <g id="edge32" class="edge">
 <title>30&#45;&gt;32</title>
-<path fill="none" stroke="black" d="M468.48,-293.83C480.54,-284.88 495.25,-273.96 508.27,-264.3"/>
-<polygon fill="black" stroke="black" points="510.59,-266.93 516.53,-258.16 506.41,-261.31 510.59,-266.93"/>
+<path fill="none" stroke="black" d="M466.71,-293.83C477.8,-284.96 491.3,-274.16 503.29,-264.57"/>
+<polygon fill="black" stroke="black" points="505.67,-267.14 511.3,-258.16 501.3,-261.68 505.67,-267.14"/>
 </g>
 <!-- 33 -->
 <g id="node34" class="node">
 <title>33</title>
-<polygon fill="none" stroke="black" points="480.5,-183 381.5,-183 381.5,-147 480.5,-147 480.5,-183"/>
-<text text-anchor="middle" x="431" y="-161.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="467,-183 381,-183 381,-147 467,-147 467,-183"/>
+<text text-anchor="middle" x="424" y="-161.3" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 32&#45;&gt;33 -->
 <g id="edge33" class="edge">
 <title>32&#45;&gt;33</title>
-<path fill="none" stroke="black" d="M513.24,-219.83C498.88,-210.43 481.2,-198.86 465.91,-188.85"/>
-<polygon fill="black" stroke="black" points="467.52,-185.72 457.23,-183.17 463.68,-191.58 467.52,-185.72"/>
+<path fill="none" stroke="black" d="M506.24,-219.83C491.88,-210.43 474.2,-198.86 458.91,-188.85"/>
+<polygon fill="black" stroke="black" points="460.52,-185.72 450.23,-183.17 456.68,-191.58 460.52,-185.72"/>
 </g>
 <!-- 34 -->
 <g id="node35" class="node">
 <title>34</title>
-<polygon fill="none" stroke="black" points="585,-183 499,-183 499,-147 585,-147 585,-183"/>
-<text text-anchor="middle" x="542" y="-161.3" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="584.5,-183 485.5,-183 485.5,-147 584.5,-147 584.5,-183"/>
+<text text-anchor="middle" x="535" y="-161.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 32&#45;&gt;34 -->
 <g id="edge34" class="edge">
 <title>32&#45;&gt;34</title>
-<path fill="none" stroke="black" d="M541.25,-219.83C541.36,-211.89 541.49,-202.41 541.62,-193.63"/>
-<polygon fill="black" stroke="black" points="545.12,-193.47 541.76,-183.42 538.12,-193.37 545.12,-193.47"/>
+<path fill="none" stroke="black" d="M534.25,-219.83C534.36,-211.89 534.49,-202.41 534.62,-193.63"/>
+<polygon fill="black" stroke="black" points="538.12,-193.47 534.76,-183.42 531.12,-193.37 538.12,-193.47"/>
 </g>
 <!-- 37 -->
 <g id="node38" class="node">
 <title>37</title>
-<polygon fill="none" stroke="black" points="801,-480 667,-480 667,-442 801,-442 801,-480"/>
-<text text-anchor="middle" x="734" y="-464.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;67.279</text>
-<text text-anchor="middle" x="734" y="-449.8" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="790,-480 656,-480 656,-442 790,-442 790,-480"/>
+<text text-anchor="middle" x="723" y="-464.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;67.279</text>
+<text text-anchor="middle" x="723" y="-449.8" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 36&#45;&gt;37 -->
 <g id="edge37" class="edge">
 <title>36&#45;&gt;37</title>
-<path fill="none" stroke="black" d="M734,-515.83C734,-508.13 734,-498.97 734,-490.42"/>
-<polygon fill="black" stroke="black" points="737.5,-490.41 734,-480.41 730.5,-490.41 737.5,-490.41"/>
+<path fill="none" stroke="black" d="M723,-515.83C723,-508.13 723,-498.97 723,-490.42"/>
+<polygon fill="black" stroke="black" points="726.5,-490.41 723,-480.41 719.5,-490.41 726.5,-490.41"/>
 </g>
 <!-- 52 -->
 <g id="node53" class="node">
 <title>52</title>
-<polygon fill="none" stroke="black" points="918.5,-479 819.5,-479 819.5,-443 918.5,-443 918.5,-479"/>
-<text text-anchor="middle" x="869" y="-457.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="907.5,-479 808.5,-479 808.5,-443 907.5,-443 907.5,-479"/>
+<text text-anchor="middle" x="858" y="-457.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 36&#45;&gt;52 -->
 <g id="edge52" class="edge">
 <title>36&#45;&gt;52</title>
-<path fill="none" stroke="black" d="M768.07,-515.83C786.19,-506.17 808.62,-494.2 827.72,-484.01"/>
-<polygon fill="black" stroke="black" points="829.63,-486.97 836.8,-479.17 826.33,-480.79 829.63,-486.97"/>
+<path fill="none" stroke="black" d="M757.07,-515.83C775.19,-506.17 797.62,-494.2 816.72,-484.01"/>
+<polygon fill="black" stroke="black" points="818.63,-486.97 825.8,-479.17 815.33,-480.79 818.63,-486.97"/>
 </g>
 <!-- 38 -->
 <g id="node39" class="node">
 <title>38</title>
-<polygon fill="none" stroke="black" points="797.5,-406 670.5,-406 670.5,-368 797.5,-368 797.5,-406"/>
-<text text-anchor="middle" x="734" y="-390.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;67.93</text>
-<text text-anchor="middle" x="734" y="-375.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="786.5,-406 659.5,-406 659.5,-368 786.5,-368 786.5,-406"/>
+<text text-anchor="middle" x="723" y="-390.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;67.93</text>
+<text text-anchor="middle" x="723" y="-375.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 37&#45;&gt;38 -->
 <g id="edge38" class="edge">
 <title>37&#45;&gt;38</title>
-<path fill="none" stroke="black" d="M734,-441.83C734,-434.13 734,-424.97 734,-416.42"/>
-<polygon fill="black" stroke="black" points="737.5,-416.41 734,-406.41 730.5,-416.41 737.5,-416.41"/>
+<path fill="none" stroke="black" d="M723,-441.83C723,-434.13 723,-424.97 723,-416.42"/>
+<polygon fill="black" stroke="black" points="726.5,-416.41 723,-406.41 719.5,-416.41 726.5,-416.41"/>
 </g>
 <!-- 51 -->
 <g id="node52" class="node">
 <title>51</title>
-<polygon fill="none" stroke="black" points="902,-405 816,-405 816,-369 902,-369 902,-405"/>
-<text text-anchor="middle" x="859" y="-383.3" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="891,-405 805,-405 805,-369 891,-369 891,-405"/>
+<text text-anchor="middle" x="848" y="-383.3" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 37&#45;&gt;51 -->
 <g id="edge51" class="edge">
 <title>37&#45;&gt;51</title>
-<path fill="none" stroke="black" d="M765.54,-441.83C782.17,-432.25 802.71,-420.42 820.3,-410.29"/>
-<polygon fill="black" stroke="black" points="822.27,-413.2 829.19,-405.17 818.78,-407.13 822.27,-413.2"/>
+<path fill="none" stroke="black" d="M754.54,-441.83C771.17,-432.25 791.71,-420.42 809.3,-410.29"/>
+<polygon fill="black" stroke="black" points="811.27,-413.2 818.19,-405.17 807.78,-407.13 811.27,-413.2"/>
 </g>
 <!-- 39 -->
 <g id="node40" class="node">
 <title>39</title>
-<polygon fill="none" stroke="black" points="801,-332 667,-332 667,-294 801,-294 801,-332"/>
-<text text-anchor="middle" x="734" y="-316.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;68.325</text>
-<text text-anchor="middle" x="734" y="-301.8" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="790,-332 656,-332 656,-294 790,-294 790,-332"/>
+<text text-anchor="middle" x="723" y="-316.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;68.325</text>
+<text text-anchor="middle" x="723" y="-301.8" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 38&#45;&gt;39 -->
 <g id="edge39" class="edge">
 <title>38&#45;&gt;39</title>
-<path fill="none" stroke="black" d="M734,-367.83C734,-360.13 734,-350.97 734,-342.42"/>
-<polygon fill="black" stroke="black" points="737.5,-342.41 734,-332.41 730.5,-342.41 737.5,-342.41"/>
+<path fill="none" stroke="black" d="M723,-367.83C723,-360.13 723,-350.97 723,-342.42"/>
+<polygon fill="black" stroke="black" points="726.5,-342.41 723,-332.41 719.5,-342.41 726.5,-342.41"/>
 </g>
 <!-- 46 -->
 <g id="node47" class="node">
 <title>46</title>
-<polygon fill="none" stroke="black" points="987.5,-332 868.5,-332 868.5,-294 987.5,-294 987.5,-332"/>
-<text text-anchor="middle" x="928" y="-316.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 45.565</text>
-<text text-anchor="middle" x="928" y="-301.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="979.5,-332 860.5,-332 860.5,-294 979.5,-294 979.5,-332"/>
+<text text-anchor="middle" x="920" y="-316.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 45.565</text>
+<text text-anchor="middle" x="920" y="-301.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 38&#45;&gt;46 -->
 <g id="edge46" class="edge">
 <title>38&#45;&gt;46</title>
-<path fill="none" stroke="black" d="M782.95,-367.83C809.36,-358.03 842.13,-345.87 869.83,-335.59"/>
-<polygon fill="black" stroke="black" points="871.24,-338.8 879.4,-332.04 868.8,-332.24 871.24,-338.8"/>
+<path fill="none" stroke="black" d="M772.46,-367.92C799.27,-358.12 832.59,-345.95 860.78,-335.64"/>
+<polygon fill="black" stroke="black" points="862.33,-338.8 870.52,-332.08 859.93,-332.23 862.33,-338.8"/>
 </g>
 <!-- 40 -->
 <g id="node41" class="node">
 <title>40</title>
-<polygon fill="none" stroke="black" points="745.5,-258 626.5,-258 626.5,-220 745.5,-220 745.5,-258"/>
-<text text-anchor="middle" x="686" y="-242.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 47.256</text>
-<text text-anchor="middle" x="686" y="-227.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="730.5,-258 611.5,-258 611.5,-220 730.5,-220 730.5,-258"/>
+<text text-anchor="middle" x="671" y="-242.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 47.256</text>
+<text text-anchor="middle" x="671" y="-227.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 39&#45;&gt;40 -->
 <g id="edge40" class="edge">
 <title>39&#45;&gt;40</title>
-<path fill="none" stroke="black" d="M721.89,-293.83C716.47,-285.71 709.98,-275.96 704.01,-267.01"/>
-<polygon fill="black" stroke="black" points="706.73,-264.79 698.28,-258.41 700.91,-268.68 706.73,-264.79"/>
+<path fill="none" stroke="black" d="M709.88,-293.83C703.95,-285.62 696.83,-275.76 690.31,-266.73"/>
+<polygon fill="black" stroke="black" points="692.99,-264.47 684.3,-258.41 687.32,-268.57 692.99,-264.47"/>
 </g>
 <!-- 45 -->
 <g id="node46" class="node">
 <title>45</title>
-<polygon fill="none" stroke="black" points="850,-257 764,-257 764,-221 850,-221 850,-257"/>
-<text text-anchor="middle" x="807" y="-235.3" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="835,-257 749,-257 749,-221 835,-221 835,-257"/>
+<text text-anchor="middle" x="792" y="-235.3" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 39&#45;&gt;45 -->
 <g id="edge45" class="edge">
 <title>39&#45;&gt;45</title>
-<path fill="none" stroke="black" d="M752.42,-293.83C761.51,-284.87 772.6,-273.93 782.4,-264.26"/>
-<polygon fill="black" stroke="black" points="784.93,-266.69 789.59,-257.17 780.01,-261.7 784.93,-266.69"/>
+<path fill="none" stroke="black" d="M740.41,-293.83C748.85,-285.02 759.12,-274.31 768.27,-264.76"/>
+<polygon fill="black" stroke="black" points="770.92,-267.06 775.31,-257.42 765.86,-262.22 770.92,-267.06"/>
 </g>
 <!-- 41 -->
 <g id="node42" class="node">
 <title>41</title>
-<polygon fill="none" stroke="black" points="705.5,-183 606.5,-183 606.5,-147 705.5,-147 705.5,-183"/>
-<text text-anchor="middle" x="656" y="-161.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="704.5,-183 605.5,-183 605.5,-147 704.5,-147 704.5,-183"/>
+<text text-anchor="middle" x="655" y="-161.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 40&#45;&gt;41 -->
 <g id="edge41" class="edge">
 <title>40&#45;&gt;41</title>
-<path fill="none" stroke="black" d="M678.43,-219.83C675.01,-211.63 670.91,-201.78 667.15,-192.76"/>
-<polygon fill="black" stroke="black" points="670.33,-191.3 663.26,-183.42 663.87,-193.99 670.33,-191.3"/>
+<path fill="none" stroke="black" d="M666.96,-219.83C665.18,-211.81 663.04,-202.2 661.08,-193.34"/>
+<polygon fill="black" stroke="black" points="664.46,-192.42 658.87,-183.42 657.62,-193.94 664.46,-192.42"/>
 </g>
 <!-- 42 -->
 <g id="node43" class="node">
 <title>42</title>
-<polygon fill="none" stroke="black" points="858,-184 724,-184 724,-146 858,-146 858,-184"/>
-<text text-anchor="middle" x="791" y="-168.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;68.459</text>
-<text text-anchor="middle" x="791" y="-153.8" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="857,-184 723,-184 723,-146 857,-146 857,-184"/>
+<text text-anchor="middle" x="790" y="-168.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;68.459</text>
+<text text-anchor="middle" x="790" y="-153.8" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 40&#45;&gt;42 -->
 <g id="edge42" class="edge">
 <title>40&#45;&gt;42</title>
-<path fill="none" stroke="black" d="M712.5,-219.83C725.68,-210.79 741.78,-199.75 755.97,-190.02"/>
-<polygon fill="black" stroke="black" points="758.24,-192.7 764.51,-184.16 754.29,-186.93 758.24,-192.7"/>
+<path fill="none" stroke="black" d="M701.03,-219.83C716.25,-210.62 734.91,-199.33 751.21,-189.47"/>
+<polygon fill="black" stroke="black" points="753.24,-192.33 759.98,-184.16 749.61,-186.34 753.24,-192.33"/>
 </g>
 <!-- 43 -->
 <g id="node44" class="node">
 <title>43</title>
-<polygon fill="none" stroke="black" points="778,-109 692,-109 692,-73 778,-73 778,-109"/>
-<text text-anchor="middle" x="735" y="-87.3" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="777,-109 691,-109 691,-73 777,-73 777,-109"/>
+<text text-anchor="middle" x="734" y="-87.3" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 42&#45;&gt;43 -->
 <g id="edge43" class="edge">
 <title>42&#45;&gt;43</title>
-<path fill="none" stroke="black" d="M776.87,-145.83C770.15,-137.2 762.01,-126.73 754.7,-117.33"/>
-<polygon fill="black" stroke="black" points="757.45,-115.16 748.55,-109.42 751.92,-119.46 757.45,-115.16"/>
+<path fill="none" stroke="black" d="M775.87,-145.83C769.15,-137.2 761.01,-126.73 753.7,-117.33"/>
+<polygon fill="black" stroke="black" points="756.45,-115.16 747.55,-109.42 750.92,-119.46 756.45,-115.16"/>
 </g>
 <!-- 44 -->
 <g id="node45" class="node">
 <title>44</title>
-<polygon fill="none" stroke="black" points="895.5,-109 796.5,-109 796.5,-73 895.5,-73 895.5,-109"/>
-<text text-anchor="middle" x="846" y="-87.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="894.5,-109 795.5,-109 795.5,-73 894.5,-73 894.5,-109"/>
+<text text-anchor="middle" x="845" y="-87.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 42&#45;&gt;44 -->
 <g id="edge44" class="edge">
 <title>42&#45;&gt;44</title>
-<path fill="none" stroke="black" d="M804.88,-145.83C811.41,-137.28 819.31,-126.94 826.43,-117.62"/>
-<polygon fill="black" stroke="black" points="829.41,-119.49 832.69,-109.42 823.84,-115.24 829.41,-119.49"/>
+<path fill="none" stroke="black" d="M803.88,-145.83C810.41,-137.28 818.31,-126.94 825.43,-117.62"/>
+<polygon fill="black" stroke="black" points="828.41,-119.49 831.69,-109.42 822.84,-115.24 828.41,-119.49"/>
 </g>
 <!-- 47 -->
 <g id="node48" class="node">
 <title>47</title>
-<polygon fill="none" stroke="black" points="987.5,-258 868.5,-258 868.5,-220 987.5,-220 987.5,-258"/>
-<text text-anchor="middle" x="928" y="-242.8" font-family="Times,serif" font-size="14.00">latitude &lt;= 45.382</text>
-<text text-anchor="middle" x="928" y="-227.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="987,-258 853,-258 853,-220 987,-220 987,-258"/>
+<text text-anchor="middle" x="920" y="-242.8" font-family="Times,serif" font-size="14.00">longitude &lt;= &#45;67.355</text>
+<text text-anchor="middle" x="920" y="-227.8" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 46&#45;&gt;47 -->
 <g id="edge47" class="edge">
 <title>46&#45;&gt;47</title>
-<path fill="none" stroke="black" d="M928,-293.83C928,-286.13 928,-276.97 928,-268.42"/>
-<polygon fill="black" stroke="black" points="931.5,-268.41 928,-258.41 924.5,-268.41 931.5,-268.41"/>
+<path fill="none" stroke="black" d="M920,-293.83C920,-286.13 920,-276.97 920,-268.42"/>
+<polygon fill="black" stroke="black" points="923.5,-268.41 920,-258.41 916.5,-268.41 923.5,-268.41"/>
 </g>
 <!-- 50 -->
 <g id="node51" class="node">
@@ -665,32 +665,32 @@
 <!-- 46&#45;&gt;50 -->
 <g id="edge50" class="edge">
 <title>46&#45;&gt;50</title>
-<path fill="none" stroke="black" d="M960.05,-293.83C976.94,-284.25 997.81,-272.42 1015.68,-262.29"/>
-<polygon fill="black" stroke="black" points="1017.74,-265.15 1024.71,-257.17 1014.29,-259.06 1017.74,-265.15"/>
+<path fill="none" stroke="black" d="M954.07,-293.83C972.19,-284.17 994.62,-272.2 1013.72,-262.01"/>
+<polygon fill="black" stroke="black" points="1015.63,-264.97 1022.8,-257.17 1012.33,-258.79 1015.63,-264.97"/>
 </g>
 <!-- 48 -->
 <g id="node49" class="node">
 <title>48</title>
-<polygon fill="none" stroke="black" points="976.5,-183 877.5,-183 877.5,-147 976.5,-147 976.5,-183"/>
-<text text-anchor="middle" x="927" y="-161.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
+<polygon fill="none" stroke="black" points="962,-183 876,-183 876,-147 962,-147 962,-183"/>
+<text text-anchor="middle" x="919" y="-161.3" font-family="Times,serif" font-size="14.00">class = USA</text>
 </g>
 <!-- 47&#45;&gt;48 -->
 <g id="edge48" class="edge">
 <title>47&#45;&gt;48</title>
-<path fill="none" stroke="black" d="M927.75,-219.83C927.64,-211.89 927.51,-202.41 927.38,-193.63"/>
-<polygon fill="black" stroke="black" points="930.88,-193.37 927.24,-183.42 923.88,-193.47 930.88,-193.37"/>
+<path fill="none" stroke="black" d="M919.75,-219.83C919.64,-211.89 919.51,-202.41 919.38,-193.63"/>
+<polygon fill="black" stroke="black" points="922.88,-193.37 919.24,-183.42 915.88,-193.47 922.88,-193.37"/>
 </g>
 <!-- 49 -->
 <g id="node50" class="node">
 <title>49</title>
-<polygon fill="none" stroke="black" points="1081,-183 995,-183 995,-147 1081,-147 1081,-183"/>
-<text text-anchor="middle" x="1038" y="-161.3" font-family="Times,serif" font-size="14.00">class = USA</text>
+<polygon fill="none" stroke="black" points="1079.5,-183 980.5,-183 980.5,-147 1079.5,-147 1079.5,-183"/>
+<text text-anchor="middle" x="1030" y="-161.3" font-family="Times,serif" font-size="14.00">class = Canada</text>
 </g>
 <!-- 47&#45;&gt;49 -->
 <g id="edge49" class="edge">
 <title>47&#45;&gt;49</title>
-<path fill="none" stroke="black" d="M955.76,-219.83C970.12,-210.43 987.8,-198.86 1003.09,-188.85"/>
-<polygon fill="black" stroke="black" points="1005.32,-191.58 1011.77,-183.17 1001.48,-185.72 1005.32,-191.58"/>
+<path fill="none" stroke="black" d="M947.76,-219.83C962.12,-210.43 979.8,-198.86 995.09,-188.85"/>
+<polygon fill="black" stroke="black" points="997.32,-191.58 1003.77,-183.17 993.48,-185.72 997.32,-191.58"/>
 </g>
 </g>
 </svg>
