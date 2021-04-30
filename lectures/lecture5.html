@@ -489,7 +489,7 @@
 <h2>House Keeping<a class="headerlink" href="#house-keeping" title="Permalink to this headline">¶</a></h2>
 <ul class="simple">
 <li><p>Quiz on Wednesday</p></li>
-<li><p>Grading issues contact these TA:</p>
+<li><p>Grading issues contact these TAs:</p>
 <ul>
 <li><p>Question 1 and 2: Andy</p></li>
 <li><p>Question 3: Daniel</p></li>
@@ -3392,11 +3392,11 @@ $<span class="math notranslate nohighlight">\(y = \begin{bmatrix}spam \\ non spa
 </div>
 </div>
 </div>
-<p><code class="docutils literal notranslate"><span class="pre">CountVectorizer</span></code> converts a collection of text documents to a matrix of word counts.</p>
+<p>We use <code class="docutils literal notranslate"><span class="pre">CountVectorizer</span></code> to convert text data into feature vectors where:</p>
 <ul class="simple">
 <li><p>Each row represents a “document” (e.g., a text message in our example).</p></li>
-<li><p>Each column represents a word in the vocabulary in the training data.</p></li>
-<li><p>Each cell represents how often the word occurs in the document.</p></li>
+<li><p>each feature is a unique word in the text</p></li>
+<li><p>each feature value represents the frequency or presence/absence of the word in the given message</p></li>
 </ul>
 <p>In the NLP community, a text data set is referred to as a <strong>corpus</strong> (plural: corpora).</p>
 <p>The features should be a 1 dimension array as an input.</p>
