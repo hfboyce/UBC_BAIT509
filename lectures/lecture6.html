@@ -1709,36 +1709,36 @@ $<span class="math notranslate nohighlight">\(P(\text{message} \mid \text{spam})
   <tbody>
     <tr>
       <th>0</th>
-      <td>0.069326</td>
-      <td>0.013008</td>
+      <td>0.063397</td>
+      <td>0.012490</td>
       <td>0.796875</td>
       <td>0.948438</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>0.059659</td>
-      <td>0.011356</td>
+      <td>0.085302</td>
+      <td>0.017699</td>
       <td>0.801562</td>
       <td>0.948438</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>0.054077</td>
-      <td>0.010886</td>
+      <td>0.087781</td>
+      <td>0.012919</td>
       <td>0.801562</td>
       <td>0.946875</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>0.055130</td>
-      <td>0.010825</td>
+      <td>0.078557</td>
+      <td>0.013298</td>
       <td>0.837500</td>
       <td>0.945703</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>0.061444</td>
-      <td>0.012616</td>
+      <td>0.076791</td>
+      <td>0.017398</td>
       <td>0.814063</td>
       <td>0.944531</td>
     </tr>
@@ -1753,8 +1753,8 @@ $<span class="math notranslate nohighlight">\(P(\text{message} \mid \text{spam})
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>fit_time       0.059927
-score_time     0.011738
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>fit_time       0.078365
+score_time     0.014761
 test_score     0.810312
 train_score    0.946797
 dtype: float64
@@ -2140,7 +2140,13 @@ dtype: float64
 [CV] gamma=100 .......................................................
 [CV] ........................................ gamma=100, total=   0.0s
 [CV] gamma=100 .......................................................
-[CV] ........................................ gamma=100, total=   0.0s
+</pre></div>
+</div>
+<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
+[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
+</pre></div>
+</div>
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[CV] ........................................ gamma=100, total=   0.1s
 [CV] gamma=100 .......................................................
 [CV] ........................................ gamma=100, total=   0.0s
 [CV] gamma=100 .......................................................
@@ -2149,9 +2155,7 @@ dtype: float64
 [CV] ........................................ gamma=100, total=   0.0s
 </pre></div>
 </div>
-<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[Parallel(n_jobs=1)]: Using backend SequentialBackend with 1 concurrent workers.
-[Parallel(n_jobs=1)]: Done   1 out of   1 | elapsed:    0.0s remaining:    0.0s
-[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.1s finished
+<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[Parallel(n_jobs=1)]: Done  20 out of  20 | elapsed:    0.2s finished
 </pre></div>
 </div>
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>GridSearchCV(estimator=SVC(), param_grid={&#39;gamma&#39;: [0.1, 1.0, 10, 100]},
@@ -2276,7 +2280,7 @@ dtype: float64
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Fitting 5 folds for each of 16 candidates, totalling 80 fits
 </pre></div>
 </div>
-<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:    0.1s
+<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:    0.2s
 </pre></div>
 </div>
 <div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[Parallel(n_jobs=-1)]: Done  80 out of  80 | elapsed:    0.2s finished
@@ -2298,7 +2302,7 @@ dtype: float64
 </div>
 <div class="section" id="why-a-grid">
 <h3>Why a grid?<a class="headerlink" href="#why-a-grid" title="Permalink to this headline">¶</a></h3>
-<center><img src="imgs/cross.gif"  width = "60%" alt="404 image" /></center>
+<a class="reference internal image-reference" href="../_images/cross.gif"><img alt="404 image" src="../_images/cross.gif" style="width: 60%;" /></a>
 <p>If we fix <code class="docutils literal notranslate"><span class="pre">C</span></code> with a value of 1 and loop over the values of 1, 10 and 100 for <code class="docutils literal notranslate"><span class="pre">gamma</span></code>.</p>
 <p>This results in <code class="docutils literal notranslate"><span class="pre">100</span></code> having the best score with 0.82.</p>
 <p>Next, we fix <code class="docutils literal notranslate"><span class="pre">gamma</span></code> at <code class="docutils literal notranslate"><span class="pre">100</span></code> since that was what we found was the most optimal when <code class="docutils literal notranslate"><span class="pre">C</span></code> was equal to 1.</p>
@@ -2535,7 +2539,7 @@ These both give the same results.</p>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0.7091911764705883
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0.7808823529411765
 </pre></div>
 </div>
 </div>
@@ -2547,7 +2551,7 @@ These both give the same results.</p>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0.6904761904761905
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>0.8095238095238095
 </pre></div>
 </div>
 </div>
@@ -2662,7 +2666,9 @@ The expected grade among the best of 10 tests is : 0.47
 </div>
 <div class="cell_output docutils container">
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>The expected grade among the best of 1 tests is : 0.25
-The expected grade among the best of 2 tests is : 0.27
+</pre></div>
+</div>
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>The expected grade among the best of 2 tests is : 0.27
 </pre></div>
 </div>
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>The expected grade among the best of 10 tests is : 0.32
